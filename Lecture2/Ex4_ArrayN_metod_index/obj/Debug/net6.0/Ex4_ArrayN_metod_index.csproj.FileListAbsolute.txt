@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\bin\Debug\net6.0\Ex4_ArrayN_metod_index.exe
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\bin\Debug\net6.0\Ex4_ArrayN_metod_index.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\bin\Debug\net6.0\Ex4_ArrayN_metod_index.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\bin\Debug\net6.0\Ex4_ArrayN_metod_index.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\bin\Debug\net6.0\Ex4_ArrayN_metod_index.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\refint\Ex4_ArrayN_metod_index.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\Ex4_ArrayN_metod_index.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod_index\obj\Debug\net6.0\ref\Ex4_ArrayN_metod_index.dll
