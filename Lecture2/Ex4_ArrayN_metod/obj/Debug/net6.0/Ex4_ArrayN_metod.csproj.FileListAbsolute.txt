@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\bin\Debug\net6.0\Ex4_ArrayN_metod.exe
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\bin\Debug\net6.0\Ex4_ArrayN_metod.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\bin\Debug\net6.0\Ex4_ArrayN_metod.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\bin\Debug\net6.0\Ex4_ArrayN_metod.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\bin\Debug\net6.0\Ex4_ArrayN_metod.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\refint\Ex4_ArrayN_metod.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\Ex4_ArrayN_metod.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex4_ArrayN_metod\obj\Debug\net6.0\ref\Ex4_ArrayN_metod.dll
