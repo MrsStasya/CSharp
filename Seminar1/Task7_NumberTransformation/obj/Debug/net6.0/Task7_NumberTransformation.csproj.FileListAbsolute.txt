@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\bin\Debug\net6.0\Task7_NumberTransformation.exe
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\bin\Debug\net6.0\Task7_NumberTransformation.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\bin\Debug\net6.0\Task7_NumberTransformation.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\bin\Debug\net6.0\Task7_NumberTransformation.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\bin\Debug\net6.0\Task7_NumberTransformation.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\refint\Task7_NumberTransformation.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\Task7_NumberTransformation.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task7_NumberTransformation\obj\Debug\net6.0\ref\Task7_NumberTransformation.dll
