@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\bin\Debug\net6.0\Task6_EvenNumber.exe
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\bin\Debug\net6.0\Task6_EvenNumber.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\bin\Debug\net6.0\Task6_EvenNumber.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\bin\Debug\net6.0\Task6_EvenNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\bin\Debug\net6.0\Task6_EvenNumber.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\refint\Task6_EvenNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\Task6_EvenNumber.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task6_EvenNumber\obj\Debug\net6.0\ref\Task6_EvenNumber.dll
