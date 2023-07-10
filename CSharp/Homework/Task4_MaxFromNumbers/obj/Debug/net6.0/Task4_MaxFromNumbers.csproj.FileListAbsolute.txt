@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\bin\Debug\net6.0\Task4_MaxFromNumbers.exe
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\bin\Debug\net6.0\Task4_MaxFromNumbers.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\bin\Debug\net6.0\Task4_MaxFromNumbers.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\bin\Debug\net6.0\Task4_MaxFromNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\bin\Debug\net6.0\Task4_MaxFromNumbers.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\refint\Task4_MaxFromNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\Task4_MaxFromNumbers.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task4_MaxFromNumbers\obj\Debug\net6.0\ref\Task4_MaxFromNumbers.dll

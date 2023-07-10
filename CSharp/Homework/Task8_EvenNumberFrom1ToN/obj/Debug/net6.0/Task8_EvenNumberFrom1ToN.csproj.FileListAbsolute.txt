@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\bin\Debug\net6.0\Task8_EvenNumberFrom1ToN.exe
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\bin\Debug\net6.0\Task8_EvenNumberFrom1ToN.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\bin\Debug\net6.0\Task8_EvenNumberFrom1ToN.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\bin\Debug\net6.0\Task8_EvenNumberFrom1ToN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\bin\Debug\net6.0\Task8_EvenNumberFrom1ToN.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\refint\Task8_EvenNumberFrom1ToN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\Task8_EvenNumberFrom1ToN.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Homework\Task8_EvenNumberFrom1ToN\obj\Debug\net6.0\ref\Task8_EvenNumberFrom1ToN.dll
