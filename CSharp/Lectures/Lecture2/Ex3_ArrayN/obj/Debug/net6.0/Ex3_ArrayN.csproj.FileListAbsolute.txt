@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\bin\Debug\net6.0\Ex3_ArrayN.exe
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\bin\Debug\net6.0\Ex3_ArrayN.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\bin\Debug\net6.0\Ex3_ArrayN.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\bin\Debug\net6.0\Ex3_ArrayN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\bin\Debug\net6.0\Ex3_ArrayN.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\refint\Ex3_ArrayN.dll
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\Ex3_ArrayN.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Lecture2\Ex3_ArrayN\obj\Debug\net6.0\ref\Ex3_ArrayN.dll
