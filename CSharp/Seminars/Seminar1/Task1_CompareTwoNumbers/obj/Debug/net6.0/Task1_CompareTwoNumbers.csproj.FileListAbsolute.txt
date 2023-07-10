@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\bin\Debug\net6.0\Task1_CompareTwoNumbers.exe
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\bin\Debug\net6.0\Task1_CompareTwoNumbers.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\bin\Debug\net6.0\Task1_CompareTwoNumbers.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\bin\Debug\net6.0\Task1_CompareTwoNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\bin\Debug\net6.0\Task1_CompareTwoNumbers.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\refint\Task1_CompareTwoNumbers.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\Task1_CompareTwoNumbers.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task1_CompareTwoNumbers\obj\Debug\net6.0\ref\Task1_CompareTwoNumbers.dll

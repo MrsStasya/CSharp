@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\bin\Debug\net6.0\Task3_DayOfTheWeekNumber.exe
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\bin\Debug\net6.0\Task3_DayOfTheWeekNumber.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\bin\Debug\net6.0\Task3_DayOfTheWeekNumber.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\bin\Debug\net6.0\Task3_DayOfTheWeekNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\bin\Debug\net6.0\Task3_DayOfTheWeekNumber.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\refint\Task3_DayOfTheWeekNumber.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\Task3_DayOfTheWeekNumber.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task3_DayOfTheWeekNumber\obj\Debug\net6.0\ref\Task3_DayOfTheWeekNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.csproj.AssemblyReference.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.AssemblyInfoInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.AssemblyInfo.cs
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\bin\Debug\net6.0\Task5_NumberOutput.exe
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\bin\Debug\net6.0\Task5_NumberOutput.deps.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\bin\Debug\net6.0\Task5_NumberOutput.runtimeconfig.json
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\bin\Debug\net6.0\Task5_NumberOutput.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\bin\Debug\net6.0\Task5_NumberOutput.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\refint\Task5_NumberOutput.dll
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.pdb
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\Task5_NumberOutput.genruntimeconfig.cache
+C:\Users\Амир\Downloads\Программирование\Education\Seminar1\Task5_NumberOutput\obj\Debug\net6.0\ref\Task5_NumberOutput.dll
